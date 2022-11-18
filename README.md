@@ -55,6 +55,22 @@ ThingsBoard is an open-source IoT platform for data collection, processing, visu
  
  - Process and React: Define data processing rule chains. Transform and normalize your device data. Raise alarms on incoming telemetry events, attribute updates, device inactivity and user actions.
 
+### ThinEdge
+
+**Website**
+
+https://thin-edge.io
+
+**Github**
+
+https://github.com/thin-edge/thin-edge.io
+
+**Overview**
+
+thin-edge.io is the first open-source and cloud-agnostic edge framework designed for resource-constrained IoT edge devices.
+
+With thin-edge.io we want to provide re-usable and modular components, which are not bound to a specific IoT platform, domain model or vendor. It runs on a wide variety of hardware, from small, embedded Linux (Debian, Yocto, etc) devices with very low RAM footprint to large, multi-core industrial servers (IPC). It comes with multi-language support and aims to provide out-of-the box connectivity, security and device management features on any device its deployed on. 
+
 ## 5G Core
 
 ### free5gc
