@@ -71,6 +71,20 @@ thin-edge.io is the first open-source and cloud-agnostic edge framework designed
 
 With thin-edge.io we want to provide re-usable and modular components, which are not bound to a specific IoT platform, domain model or vendor. It runs on a wide variety of hardware, from small, embedded Linux (Debian, Yocto, etc) devices with very low RAM footprint to large, multi-core industrial servers (IPC). It comes with multi-language support and aims to provide out-of-the box connectivity, security and device management features on any device its deployed on. 
 
+### EdgeX Foundry
+
+**Website**
+
+https://www.edgexfoundry.org
+
+**Github**
+
+https://github.com/edgexfoundry
+
+**Overview**
+
+
+
 ## 5G Core
 
 ### free5gc
