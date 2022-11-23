@@ -87,6 +87,32 @@ With thin-edge.io we want to provide re-usable and modular components, which are
 
 ### OpenZiti
 
+### Secure Device Onboard
+
+**Website**
+
+https://www.lfedge.org/projects/securedeviceonboard/
+
+**Github**
+
+https://github.com/secure-device-onboard
+
+**Overview**
+
+An Automated “Zero-Touch” Onboarding Service
+
+To more securely and automatically onboard and provision an edge device, it only needs to be drop-shipped to the point of installation, connected to the network and powered up. SDO does the rest. This zero-touch model simplifies the installer’s role, reduces costs and eliminates poor security practices, such as shipping default passwords.
+
+Secure Device Onboard provides easier, faster, less expensive, and secure onboarding of devices. It expands TAM for IOT devices, and in turn accelerates the resulting ecosystem of data processing infrastructure. Most “Zero touch” automated onboarding solutions require the target platform to be decided at manufacturer.
+
+Key benefits of Secure Device OnBoard include:
+
+Enables Build-to-Plan Model — ODMs can build identical IOT devices in high volume using a standardized manufacturing process. Reduces inventories, supply cycle times, and costs.
+
+SDO “Late Binding”– allows the device’s target platform to be selected “late” in the supply chain, at first power-on.
+It’s Open – means its service & cloud independent. Devices are bound to target the ecosystem at install. Works with existing cloud services, it does not replace them.
+
+
 ## AR/VR
 
 ### croquet microverse
